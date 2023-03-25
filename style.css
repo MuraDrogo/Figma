@@ -71,3 +71,11 @@ body{
     line-height: 19px;
     color: #626262;
 }
+.end{
+    font-family: 'Playfair Display';
+    color: #626262;
+    width: 200px;
+    height: 68px;
+    border: 1px solid #000;
+    margin: auto;
+}
